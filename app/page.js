@@ -1,9 +1,8 @@
 'use client'
-import { Roboto } from 'next/font/google'
-import { Inter } from 'next/font/google'
-import Tabs from './components/tabs.js'
+import { Roboto, Inter } from 'next/font/google'
 import { useState } from 'react'
-import Chart from './components/chart.js'
+import Tabs from './components/Tabs.js'
+import MainChart from './components/MainChart.js'
 
 const roboto = Roboto({ 
   subsets: ['latin'],
@@ -12,9 +11,9 @@ const roboto = Roboto({
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
-  const [category, setCategory] = useState(0)
-  function toggleCategory(c) {
-    setCategory(c)
+  const [category, setCategory] = useState("all")
+  function toggleCategory(categ) {
+    setCategory(categ)
   }
 
   return (
@@ -35,8 +34,8 @@ export default function Home() {
       </div>
 
       {/* tabs for display filtering */}
-      <Tabs category={category} toggle={toggleCategory}/>
-      <Chart category={category}/>
+      <Tabs toggle={toggleCategory}/>
+      <MainChart category={category}/>
     </main>
   )
 }

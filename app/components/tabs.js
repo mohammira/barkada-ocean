@@ -1,7 +1,7 @@
 'use client'
 import { useState } from 'react'
 
-export default function Tabs({category, toggle}) {
+export default function Tabs({ toggle }) {
   const [activeTabId, setActiveTabId] = useState(0)
   const tabNames = [
     "all",
@@ -13,8 +13,7 @@ export default function Tabs({category, toggle}) {
   ]
   const handleClick = (id) => {
     setActiveTabId(id)
-    toggle(id)
-
+    toggle(tabNames[id])
   }
   
   return (

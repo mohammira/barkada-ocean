@@ -1,0 +1,474 @@
+[
+    {
+        "id": 1,
+        "name": "mai",
+        "neuroticism": {
+            "total": 87,
+            "breakdown": {
+                "anxiety": 17,
+                "anger": 15,
+                "depression": 14,
+                "self-consciousness": 15,
+                "immoderation": 15,
+                "vulnerability": 11
+            }
+        }, 
+        "extraversion": {
+            "total": 75,
+            "breakdown": {   
+                "friendliness": 13,
+                "gregariousness": 12,
+                "assertiveness": 12,
+                "activity level": 11,
+                "excitement-seeking": 12,
+                "cheerfulness": 15
+            }
+        },
+        "openness to experience": {
+            "total": 87,
+            "breakdown": {
+                "imagination": 17,
+                "artistic interests": 14,
+                "emotionality": 15,
+                "adventurousness": 12,
+                "intellect": 14,
+                "liberalism": 15
+            }
+        },
+        "agreeableness": {
+            "total": 82,
+            "breakdown": {                   
+                "trust": 12,
+                "morality": 14,
+                "altruism": 13,
+                "cooperation": 13,
+                "modesty": 16,
+                "sympathy": 14
+            }
+        },
+        "conscientiousness": {
+            "total": 70,
+            "breakdown": {
+                "self-efficacy": 14,
+                "orderliness": 10,
+                "dutifulness": 13,
+                "achievement-striving": 13,
+                "self-discipline": 10,
+                "cautiousness": 10
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "ann",
+        "neuroticism": {
+            "total": 87,
+            "breakdown": {
+                "anxiety": 14,
+                "anger": 18,
+                "depression": 11,
+                "self-consciousness": 10,
+                "immoderation": 16,
+                "vulnerability": 18
+            }
+        }, 
+        "extraversion": {
+            "total": 68,
+            "breakdown": {   
+                "friendliness": 12,
+                "gregariousness": 8,
+                "assertiveness": 14,
+                "activity level": 10,
+                "excitement-seeking": 9,
+                "cheerfulness": 15
+            }
+        },
+        "openness to experience": {
+            "total": 59,
+            "breakdown": {
+                "imagination": 10,
+                "artistic interests": 8,
+                "emotionality": 17,
+                "adventurousness": 6,
+                "intellect": 7,
+                "liberalism": 11
+            }
+        },
+        "agreeableness": {
+            "total": 79,
+            "breakdown": {                   
+                "trust": 11,
+                "morality": 16,
+                "altruism": 15,
+                "cooperation": 12,
+                "modesty": 12,
+                "sympathy": 13
+            }
+        },
+        "conscientiousness": {
+            "total": 74,
+            "breakdown": {
+                "self-efficacy": 10,
+                "orderliness": 10,
+                "dutifulness": 17,
+                "achievement-striving": 11,
+                "self-discipline": 12,
+                "cautiousness": 14
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "eun",
+        "neuroticism": {
+            "total": 61,
+            "breakdown": {
+                "anxiety": 14,
+                "anger": 13,
+                "depression": 8,
+                "self-consciousness": 7,
+                "immoderation": 13,
+                "vulnerability": 6
+            }
+        }, 
+        "extraversion": {
+            "total": 92,
+            "breakdown": {   
+                "friendliness": 16,
+                "gregariousness": 18,
+                "assertiveness": 16,
+                "activity level": 10,
+                "excitement-seeking": 14,
+                "cheerfulness": 18
+            }
+        },
+        "openness to experience": {
+            "total": 106,
+            "breakdown": {
+                "imagination": 16,
+                "artistic interests": 20,
+                "emotionality": 18,
+                "adventurousness": 15,
+                "intellect": 19,
+                "liberalism": 18
+            }
+        },
+        "agreeableness": {
+            "total": 100,
+            "breakdown": {                   
+                "trust": 13,
+                "morality": 18,
+                "altruism": 19,
+                "cooperation": 16,
+                "modesty": 14,
+                "sympathy": 20
+            }
+        },
+        "conscientiousness": {
+            "total": 86,
+            "breakdown": {
+                "self-efficacy": 16,
+                "orderliness": 13,
+                "dutifulness": 17,
+                "achievement-striving": 15,
+                "self-discipline": 11,
+                "cautiousness": 14
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "pat",
+        "neuroticism": {
+            "total": 77,
+            "breakdown": {
+                "anxiety": 14,
+                "anger": 7,
+                "depression": 14,
+                "self-consciousness": 14,
+                "immoderation": 16,
+                "vulnerability": 12
+            }
+        }, 
+        "extraversion": {
+            "total": 73,
+            "breakdown": {   
+                "friendliness": 12,
+                "gregariousness": 10,
+                "assertiveness": 16,
+                "activity level": 9,
+                "excitement-seeking": 14,
+                "cheerfulness": 12
+            }
+        },
+        "openness to experience": {
+            "total": 92,
+            "breakdown": {
+                "imagination": 14,
+                "artistic interests": 18,
+                "emotionality": 15,
+                "adventurousness": 13,
+                "intellect": 18,
+                "liberalism": 14
+            }
+        },
+        "agreeableness": {
+            "total": 76,
+            "breakdown": {                   
+                "trust": 10,
+                "morality": 15,
+                "altruism": 13,
+                "cooperation": 16,
+                "modesty": 160,
+                "sympathy": 12
+            }
+        },
+        "conscientiousness": {
+            "total": 81,
+            "breakdown": {
+                "self-efficacy": 16,
+                "orderliness": 8,
+                "dutifulness": 14,
+                "achievement-striving": 16,
+                "self-discipline": 11,
+                "cautiousness": 16
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "sab",
+        "neuroticism": {
+            "total": 77,
+            "breakdown": {
+                "anxiety": 15,
+                "anger": 9,
+                "depression": 20,
+                "self-consciousness": 15,
+                "immoderation": 12,
+                "vulnerability": 6
+            }
+        }, 
+        "extraversion": {
+            "total": 60,
+            "breakdown": {   
+                "friendliness": 6,
+                "gregariousness": 8,
+                "assertiveness": 15,
+                "activity level": 12,
+                "excitement-seeking": 12,
+                "cheerfulness": 7
+            }
+        },
+        "openness to experience": {
+            "total": 63,
+            "breakdown": {
+                "imagination": 11,
+                "artistic interests": 12,
+                "emotionality": 10,
+                "adventurousness": 11,
+                "intellect": 9,
+                "liberalism": 10
+            }
+        },
+        "agreeableness": {
+            "total": 63,
+            "breakdown": {                   
+                "trust": 6,
+                "morality": 8,
+                "altruism": 13,
+                "cooperation": 13,
+                "modesty": 18,
+                "sympathy": 5
+            }
+        },
+        "conscientiousness": {
+            "total": 85,
+            "breakdown": {
+                "self-efficacy": 16,
+                "orderliness": 16,
+                "dutifulness": 11,
+                "achievement-striving": 12,
+                "self-discipline": 12,
+                "cautiousness": 18
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "bits",
+        "neuroticism": {
+            "total": 80,
+            "breakdown": {
+                "anxiety": 10,
+                "anger": 19,
+                "depression": 6,
+                "self-consciousness": 17,
+                "immoderation": 18,
+                "vulnerability": 10
+            }
+        }, 
+        "extraversion": {
+            "total": 73,
+            "breakdown": {   
+                "friendliness": 12,
+                "gregariousness": 10,
+                "assertiveness": 14,
+                "activity level": 10,
+                "excitement-seeking": 10,
+                "cheerfulness": 15
+            }
+        },
+        "openness to experience": {
+            "total": 90,
+            "breakdown": {
+                "imagination": 15,
+                "artistic interests": 15,
+                "emotionality": 17,
+                "adventurousness": 11,
+                "intellect": 15,
+                "liberalism": 17
+            }
+        },
+        "agreeableness": {
+            "total": 77,
+            "breakdown": {                   
+                "trust": 11,
+                "morality": 16,
+                "altruism": 12,
+                "cooperation": 17,
+                "modesty": 4,
+                "sympathy": 17
+            }
+        },
+        "conscientiousness": {
+            "total": 65,
+            "breakdown": {
+                "self-efficacy": 15,
+                "orderliness": 6,
+                "dutifulness": 16,
+                "achievement-striving": 8,
+                "self-discipline": 11,
+                "cautiousness": 9
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "casey",
+        "neuroticism": {
+            "total": 100,
+            "breakdown": {
+                "anxiety": 18,
+                "anger": 20,
+                "depression": 16,
+                "self-consciousness": 18,
+                "immoderation": 12,
+                "vulnerability": 16
+            }
+        }, 
+        "extraversion": {
+            "total": 65,
+            "breakdown": {   
+                "friendliness": 5,
+                "gregariousness": 7,
+                "assertiveness": 15,
+                "activity level": 13,
+                "excitement-seeking": 13,
+                "cheerfulness": 12
+            }
+        },
+        "openness to experience": {
+            "total": 85,
+            "breakdown": {
+                "imagination": 16,
+                "artistic interests": 15,
+                "emotionality": 15,
+                "adventurousness": 9,
+                "intellect": 15,
+                "liberalism": 15
+            }
+        },
+        "agreeableness": {
+            "total": 86,
+            "breakdown": {                   
+                "trust": 6,
+                "morality": 14,
+                "altruism": 16,
+                "cooperation": 13,
+                "modesty": 16,
+                "sympathy": 18
+            }
+        },
+        "conscientiousness": {
+            "total": 94,
+            "breakdown": {
+                "self-efficacy": 16,
+                "orderliness": 19,
+                "dutifulness": 17,
+                "achievement-striving": 16,
+                "self-discipline": 12,
+                "cautiousness": 14
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "chermae",
+        "neuroticism": {
+            "total": 69,
+            "breakdown": {
+                "anxiety": 16,
+                "anger": 12,
+                "depression": 6,
+                "self-consciousness": 11,
+                "immoderation": 12,
+                "vulnerability": 12
+            }
+        }, 
+        "extraversion": {
+            "total": 85,
+            "breakdown": {   
+                "friendliness": 15,
+                "gregariousness": 13,
+                "assertiveness": 14,
+                "activity level": 11,
+                "excitement-seeking": 14,
+                "cheerfulness": 18
+            }
+        },
+        "openness to experience": {
+            "total": 94,
+            "breakdown": {
+                "imagination": 15,
+                "artistic interests": 19,
+                "emotionality": 19,
+                "adventurousness": 13,
+                "intellect": 17,
+                "liberalism": 11
+            }
+        },
+        "agreeableness": {
+            "total": 91,
+            "breakdown": {                   
+                "trust": 12,
+                "morality": 18,
+                "altruism": 19,
+                "cooperation": 11,
+                "modesty": 14,
+                "sympathy": 17
+            }
+        },
+        "conscientiousness": {
+            "total": 95,
+            "breakdown": {
+                "self-efficacy": 18,
+                "orderliness": 20,
+                "dutifulness": 18,
+                "achievement-striving": 14,
+                "self-discipline": 16,
+                "cautiousness": 9
+            }
+        }
+    }
+    ]
